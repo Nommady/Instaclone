@@ -1,0 +1,17 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 12px;
+  font-family: 'Roboto', sans-serif;
+  
+}
+
+:root{
+  --color-primary:#262626;
+  --color-secundary:rgba(151, 150, 150, 0.739);
+  --color-terciary:#f2f2f2;
+}
+::-webkit-scrollbar { 
+  display: none;
+}
